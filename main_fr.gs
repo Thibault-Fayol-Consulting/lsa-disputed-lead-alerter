@@ -1,6 +1,13 @@
 /**
- * lsa-disputed-lead-alerter - Script Google Ads for SMBs
- * Author: Thibault Fayol
+ * --------------------------------------------------------------------------
+ * lsa-disputed-lead-alerter - Google Ads Script for SMBs
+ * --------------------------------------------------------------------------
+ * Author: Thibault Fayol - Consultant SEA PME
+ * Website: https://thibaultfayol.com
+ * License: MIT
+ * --------------------------------------------------------------------------
  */
 var CONFIG = { TEST_MODE: true };
-function main(){ Logger.log("Tracking disputed LSA lead status..."); }
+function main() {
+    Logger.log("Vérification des litiges sur vos Leads LSA...");
+}
